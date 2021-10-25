@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\C#\Teorema e pitagores\Teorema e pitagores\bin\Debug\Teorema e pitagores.exe.config
+C:\Users\User\Desktop\C#\Teorema e pitagores\Teorema e pitagores\bin\Debug\Teorema e pitagores.exe
+C:\Users\User\Desktop\C#\Teorema e pitagores\Teorema e pitagores\bin\Debug\Teorema e pitagores.pdb
+C:\Users\User\Desktop\C#\Teorema e pitagores\Teorema e pitagores\obj\Debug\Teorema e pitagores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Teorema e pitagores\Teorema e pitagores\obj\Debug\Teorema e pitagores.exe
+C:\Users\User\Desktop\C#\Teorema e pitagores\Teorema e pitagores\obj\Debug\Teorema e pitagores.pdb
